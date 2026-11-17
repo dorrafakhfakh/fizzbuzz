@@ -1,9 +1,13 @@
 package fizzbuzz;
 
 public class Game {
-
-	public Object next() {
-		return "1";
+	
+	private int round=1;
+	
+	public String next() {
+	    StringBuilder sb = new StringBuilder();
+	    sb.append(round++);
+	    return sb.toString();
 	}
 
 }

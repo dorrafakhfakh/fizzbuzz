@@ -10,7 +10,7 @@ Groupe de TP : •[X] A11
 ## Backlog
 
 - [X] ITER 1 : le 1er coup répond "1"
-- [ ] ITER 2 : le 2e coup répond "2"
+- [X] ITER 2 : le 2e coup répond "2"
 - [ ] ITER 3 : le 3e coup répond "Fizz"
 - [ ] ITER 4 : le 4e coup répond "4"
 - [ ] ITER 5 : le 5e coup répond "Buzz"
